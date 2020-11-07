@@ -1,0 +1,7 @@
+# ignore file
+datasets
+save_it*
+__pycache__
+
+# ignore folder
+*.txt
